@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/cshann22/leet-code/tree/master/0118-pascals-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/cshann22/leet-code/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cshann22/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/cshann22/leet-code/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
