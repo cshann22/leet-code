@@ -17,4 +17,20 @@
 |  |
 | ------- |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/cshann22/leet-code/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/cshann22/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/cshann22/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/cshann22/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/cshann22/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
